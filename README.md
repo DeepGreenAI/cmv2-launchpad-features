@@ -1,6 +1,6 @@
 # FCC Launchpad: A Solana launchpad focused on security, reliability, and speed 
 
-The Fat Cats Capital Launchpad is a world class Solana NFT launchpad designed to help launch nft collections and ensure a flawless mint day for new projects. It is built on top of Metaplex's Candy Machine V2 (used for majority of Solana NFTs) and retains all of the functionality of CMV2 plus much more. 
+The Fat Cats Capital Launchpad is a world class Solana NFT launchpad designed to help launch nft collections and ensure a flawless mint day for new projects. It is built on top of Metaplex's Candy Machine V2 (used for majority of Solana NFTs) and retains all of the functionality of CMV2 plus much more. CMV3 support will be added after more solana projects use it and it has a proven security track record just like CMV2 does today.
 
 # Security
 
