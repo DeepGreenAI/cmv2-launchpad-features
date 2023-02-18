@@ -18,28 +18,29 @@ lightning fast, production
 
 # Reliability
 
+The FCC launchpad is highly fault tolerant, and is built with an architecture that has a near zero chance of downtime even during peak traffic. It can easily handle millions of concurrent users with no issues and has built in security mechanisms to defend against DDOS and other sophisticated attacks.
 * multiple RPC endpoints
 
 
 
 
-Features
+# Features
 
 * Automated deployment of NFT smart contracts to Solana testnet and Mainnet networks
 * Automated uloading of NFT assets / metadata to multiple configurable environments including aws and arweave
 * Automated validation of metadata to ensure proper formatting
+* Random/Unpredictable Mint Index (This eliminates the possibility of gaming the system and minting rarer items)
 * NFTs can be deployed with multiple configuration options
+* Emergency Captcha (Will force captcha usage when bots are detected)
 * Uses latest LTS version(22.04) for ubuntu and has been fully tested with this version
 * Accept solana and other spl tokens as payment
-* C
 
-
-Configuration Options
+# Configuration Options
 
 * Whitelist
 * Presale
-* Set price for
 * Accept solana and other spl tokens as payment
+* Optional captcha for bot detection
 * Configurable go live date and countdown timer
 * Mutable/Immutable NFTs
 * End Mint Settings (date vs mint amount)
