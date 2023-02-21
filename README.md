@@ -17,7 +17,7 @@ The FCC launchpad is highly fault tolerant, and is built with an architecture th
 # Features
 
 * Automated deployment of NFT smart contracts to Solana testnet and Mainnet networks
-* Automated uloading of NFT assets / metadata to multiple configurable environments including aws and arweave
+* Automated uploading of NFT assets / metadata to multiple configurable environments including aws and arweave
 * Automated validation of metadata to ensure proper formatting
 * Random/Unpredictable Mint Index (This eliminates the possibility of gaming the system and minting rarer items)
 * NFTs can be deployed with multiple configuration options
