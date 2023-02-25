@@ -4,7 +4,7 @@ The Fat Cats Capital Launchpad is a world class Solana NFT launchpad designed to
 
 # Security
 
-The FCC Launchpad has been built with a security first mindset using the best technology available today. The core source code of the launchpad has had a full security audit completed by top security researches at OtterSec. The contents of that audit can be viewed here : https://docsend.com/view/is7963h8tbbvp2g9. There were no Major findings and 5 out of the 6 low priority findings have since been fixed and fixes deployed by the FCC development team/author's of this launchpad. Having launchpad's audited is not a standard practice in this industry because of the high associated cost. However, having the FCC launchpad was a no-brainer as we wanted every user of this launchpad to have no doubts about the superior security provided by using a highly reviewed, well tested, and highly secure launchpad.
+The FCC Launchpad has been built with a security first mindset using the best technology available today. The core source code of the launchpad has had a full security audit completed by top security researches at OtterSec. The contents of that audit can be viewed here : https://docsend.com/view/is7963h8tbbvp2g9. There were no Major findings and 5 out of the 6 low priority findings have since been fixed and fixes deployed by the FCC development team/author's of this launchpad. Having launchpads audited is not a standard practice in this industry because of the high associated cost. However, having the FCC launchpad was a no-brainer as we wanted every user of this launchpad to have no doubts about the superior security provided by using a highly reviewed, well tested, and highly secure launchpad.
 
 # Speed
 
